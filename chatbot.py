@@ -2,7 +2,7 @@ import streamlit as st
 import random
 import time
 
-st.title("Raahil Aayan - Simple Chat")
+st.title("Raahil Aayan_ChatBot")
 
 # Streamed response emulator
 def response_generator():
